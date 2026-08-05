@@ -1,4 +1,4 @@
-# Before / After Data Cleaning Case Study
+# Data Cleaning & validation Case Study
 
 Audited and cleaned a raw employee records dataset (420 rows) containing realistic
 data-entry errors, then measured the impact of the cleaning process in concrete,
